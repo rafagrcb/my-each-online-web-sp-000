@@ -7,6 +7,4 @@ def my_each
       end
     end
   end
-  
-end
 end
