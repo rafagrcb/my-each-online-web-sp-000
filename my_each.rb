@@ -4,7 +4,6 @@ def my_each
       while i < self.size
         yield(self[i])
         i += 1
-      end
     end
   end
 end
