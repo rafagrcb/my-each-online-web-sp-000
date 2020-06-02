@@ -26,5 +26,3 @@
     end
     acc
   end
-
-end
